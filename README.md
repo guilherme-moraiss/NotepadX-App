@@ -37,8 +37,8 @@
 
 Ecrã de Login
 
-📧 Contacto
-Desenvolvedor: Guilherm Morais
-Email: guilhermeetoogmorais@gmail.com
-GitHub: https://github.com/zeus1sx
-LinkedIn: https://www.linkedin.com/in/guilherme-morais-23750b340/
+## 📧 Contacto
+### Desenvolvedor: Guilherme Morais
+### Email: guilhermeetoogmorais@gmail.com
+### GitHub: https://github.com/zeus1sx
+### LinkedIn: https://www.linkedin.com/in/guilherme-morais-23750b340/
