@@ -1,44 +1,51 @@
 # NotepadX 📝
 
-**NotepadX** é uma aplicação Android desenvolvida no Android Studio que permite aos utilizadores criar, editar e visualizar notas de forma prática e intuitiva. Ideal para organizar ideias, lembretes e informações importantes, o NotepadX combina um design moderno com funcionalidades que facilitam o dia a dia.
+**NotepadX** is an Android application developed in Android Studio that allows users to create, edit, and view notes in a practical and intuitive way. Ideal for organizing ideas, reminders, and important information, NotepadX combines a modern design with features that make daily life easier.
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- 🔐 **Login Seguro**: Aceda à sua conta utilizando nome e palavra-passe.  
-- 📝 **Registo de Utilizador**: Registe-se fornecendo nome, email, palavra-passe e nacionalidade.  
-- 🏠 **Ecrã Principal**: Visualize todas as notas criadas num único local.  
-- ➕ **Adicionar Notas**: Crie novas notas com título, descrição e imagem para ilustrar melhor as suas ideias.  
-- ✏️ **Editar Notas**: Atualize o título e a descrição das suas notas de forma simples e rápida.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Linguagem**: Java  
-- **Framework**: Android SDK  
-- **Interface de Utilizador**: Material Design  
-- **Armazenamento**: Room Database e/ou SharedPreferences  
-- **Networking**: Retrofit/Volley (caso sejam necessárias funcionalidades de sincronização ou backup)
+- 🔐 **Secure Login**: Access your account using a username and password.
+- 📝 **User Registration**: Sign up by providing your name, email, password, and nationality.  
+- 🏠 **Home Screen**: View all your created notes in one place.
+- ➕ **Add Notes**: Create new notes with a title, description, and image to better illustrate your ideas. 
+- ✏️ **Edit Notes**: Easily update the title and description of your notes.
 
 ---
 
-## 📲 Como Executar o Projeto
+## 🛠️ Technologies Used
 
-1. Certifique-se de que tem o [Android Studio](https://developer.android.com/studio) instalado.  
-2. Clone este repositório:  
+- **Language:** Java
+- **Framework:** Android SDK
+- **User Interface:** Material Design
+- **Storage:** Room Database and/or SharedPreferences
+- **Networking:** Retrofit/Volley (if synchronization or backup features are needed)
+
+---
+
+## 📲 How to Run the Project
+
+1. Make sure you have **Android Studio** installed.
+2. Clone this repository:
    ```bash
-   git clone https://github.com/zeus1sx/NotepadX
-3. Abra o Android Studio e importe o projeto.
-4. Execute o projeto num dispositivo físico ou num emulador Android.
+   git clone https://github.com/guilherme-moraiss/NotepadX
+3. Open Android Studio and import the project.
+4. Run the project on a physical device or an Android emulator.
 
-## 🎨 Prévia da Aplicação
+## 🎨 App Preview
 
-Ecrã de Login
+Login Screen
 
-## 📧 Contacto
-### Desenvolvedor: Guilherme Morais
+## 📧 Contact
+### Developer: Guilherme Morais
 ### Email: guilhermeetoogmorais@gmail.com
 ### GitHub: https://github.com/zeus1sx
 ### LinkedIn: https://www.linkedin.com/in/guilherme-morais-23750b340/
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
