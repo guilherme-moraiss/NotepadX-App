@@ -33,10 +33,13 @@
 3. Open Android Studio and import the project.
 4. Run the project on a physical device or an Android emulator.
 
+---
+
 ## 🎨 App Preview
 
 Login Screen
 
+---
 ## 📧 Contact
 ### Developer: Guilherme Morais
 ### Email: guilhermeetoogmorais@gmail.com
